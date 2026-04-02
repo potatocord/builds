@@ -1,4 +1,4 @@
-// Vencord f811b44
+// Vencord dec59b2
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
