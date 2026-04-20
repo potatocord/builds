@@ -1,4 +1,4 @@
-// Vencord ce0bdcd
+// Potatocord c33daff
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
